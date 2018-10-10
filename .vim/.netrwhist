@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/dev/project/core_service/ATC/ATCBrokerd'
+let g:netrw_dirhist_2='/home/dev/project/core_service/ATC/ATCMonitorPlugin'
+let g:netrw_dirhist_3='/home/dev/project/core_service/ATC/TestATCBrokerd'
+let g:netrw_dirhist_4='/home/dev/project/core_service/ATC/TestATCMonitorPlugin'
