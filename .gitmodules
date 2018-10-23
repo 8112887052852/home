@@ -10,6 +10,3 @@
 [submodule "dev/z"]
 	path = dev/z
 	url = https://github.com/rupa/z.git
-[submodule "dev/ripgrep"]
-	path = dev/ripgrep
-	url = https://github.com/BurntSushi/ripgrep.git
