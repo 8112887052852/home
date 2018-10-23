@@ -7,3 +7,9 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "dev/z"]
+	path = dev/z
+	url = https://github.com/rupa/z.git
+[submodule "dev/ripgrep"]
+	path = dev/ripgrep
+	url = https://github.com/BurntSushi/ripgrep.git
